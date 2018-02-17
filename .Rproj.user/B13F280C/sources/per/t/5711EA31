@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1518845503924.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "797472632",
+    "id" : "5711EA31",
+    "lastKnownWriteTime" : 1518847473,
+    "last_content_update" : 1518847473521,
+    "path" : "D:/Kang Han/Research/GitHub/R_Exercise/Exercise12_RandomNumber.R",
+    "project_path" : "Exercise12_RandomNumber.R",
+    "properties" : {
+        "cursorPosition" : "11,48",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
